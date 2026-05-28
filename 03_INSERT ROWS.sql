@@ -1,4 +1,5 @@
 use db;
+
 insert into employees
 values (1,'john','cena',85.5,'2027-05-13'),
        (2,'ryan','gosling',50.75,'2026-12-12'),
